@@ -23,6 +23,8 @@ Hello, I'm **Shanshi**.
 
 🌱 I’m currently learning **Machine Learning and AI**
 
+🤔 I’m intrested in **Autonomotivate vehicle** 
+
 📫 How to reach me: **202307021159T@cqu.stu.edu.cn**
 
 😄 Pronouns:He/His
