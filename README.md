@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-Hello, I'm **Shanshi**.🔭 I’m currently studying at Chongqing University for master's degree.
+Hello, I'm **Shanshi**.
+
+🔭 I’m currently studying at Chongqing University for master's degree.
 
 🌱 I’m currently learning **Machine Learning and AI**
 
