@@ -25,4 +25,6 @@ Hello, I'm **Shanshi**.
 
 📫 How to reach me: **202307021159T@cqu.stu.edu.cn**
 
+😄 Pronouns:He/His
+
 
