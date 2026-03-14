@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **Hi there, Welcome!👋**
+
 Hello, I'm **Shanshi**.🔭 I’m currently studying at Chongqing University for master's degree.
+
 🌱 I’m currently learning **Machine Learning and AI**
+
 📫 How to reach me: **202307021159T@cqu.stu.edu.cn**
 
 
