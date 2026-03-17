@@ -26,7 +26,7 @@ Hello, I'm **Shanshi**.
 
 🤔 I’m intrested in **Autonomotivate vehicle** 
 
-📫 How to reach me: **202307021159T@cqu.stu.edu.cn**
+📫 How to reach me: **202307021159T@stu.cqu.edu.cn**
 
 😄 Pronouns:He/His
 
