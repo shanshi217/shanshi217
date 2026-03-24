@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!--## Hi there 👋
+-->
 <!--
 **shanshi217/shanshi217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 **Hi there, Welcome!👋**
 -->
 
-
+<!--
 # Hi there 👋
 
 I'm **Shanshi**.
@@ -38,7 +38,7 @@ I'm **Shanshi**.
 📫 How to reach me: **202307021159T@stu.cqu.edu.cn**
 
 😄 Pronouns:He/His
-
+-->
 
 # Hi there 👋
 
@@ -59,9 +59,9 @@ I'm **Shanshi**.
 
 ## 🔭 Research Interests
 
-- Your research topic
-- Your academic interests
-- Your future direction
+- My research topic is __Autonomotivate vehicle__
+- My academic interests are **Machine Learning and AI**
+- My future directions are __Everything Interesting__
 
 ## 🛠️ Tech Stack
 
