@@ -17,8 +17,17 @@ Here are some ideas to get you started:
 -->
 
 
-Hello, I'm **Shanshi**.
+# Hi there 👋
 
+I'm **Shanshi**.
+> A master's student preparing for graduation, focused on research, growth, and meaningful work.
+
+ ## 🎓 About Me
+
+- 👨‍🎓 Master's student
+- 📚 Currently preparing for graduation
+- 🔬 Interested in research and academic development
+- 🚀 Looking forward to the next stage of life and work
 
 🔭 I’m currently studying at Chongqing University for master's degree.
 
@@ -30,12 +39,53 @@ Hello, I'm **Shanshi**.
 
 😄 Pronouns:He/His
 
-# Hi! U are the [![](https://count.getloli.com/get/@:neardws)](https://count.getloli.com/)-*th* visitor
 
-## 💻 Coding
+# Hi there 👋
 
-[![Neardws's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neardws&show_icons=true&theme=graywhite)](https://github.com/neardws/github-readme-stats)
+> A master's student preparing for graduation, focused on research, growth, and meaningful work.
 
+## 🎓 About Me
 
+- 👨‍🎓 Master's student
+- 📚 Currently preparing for graduation
+- 🔬 Interested in research and academic development
+- 🚀 Looking forward to the next stage of life and work
+
+## 📊 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shanshi217&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanshi217&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔭 Research Interests
+
+- Your research topic
+- Your academic interests
+- Your future direction
+
+## 🛠️ Tech Stack
+
+- Python
+- C++
+- LaTeX
+- Git
+- Linux
+
+<!--
+## 📌 Featured Projects
+
+- Project 1: description
+- Project 2: description
+- Project 3: description
+-->
+
+## 📫 Contact
+
+- Email: zhangyan00217@163.com
+- GitHub: https://github.com/shanshi217
+
+## 👀 Visitors
+
+[![](https://count.getloli.com/get/@shanshi217)](https://count.getloli.com/)
 
 
